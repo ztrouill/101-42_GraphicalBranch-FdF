@@ -5,9 +5,9 @@ First school project consisting in creating graphically an isometric or parallel
 
 Watch here : https://vimeo.com/408844297
 
-![illu00](/img/0.png)
+![illu00](/img/1.png)
 
-![illu01](/img/1.png)
+![illu01](/img/2.png)
 
 # HowTo
 
@@ -20,4 +20,4 @@ You will need :
 2. ./fdf maps/42.fdf sound/drums.wav (see more maps and sounds in their respective directory)
 3. enjoy :rocket:
 
-![illu02](/img/2.png)
+![illu02](/img/0.png)
