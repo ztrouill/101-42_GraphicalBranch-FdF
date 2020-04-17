@@ -1,7 +1,7 @@
 # FdF
 *42 School Project - Wireframe Render Project*
 
-First school project consisting in creating graphically an isometric or parallel wireframe representation of a map, imaginary or not. I wanted to divert this project and experiment in order to make it reactive to music.
+First school project consisting in creating graphically an isometric or parallel wireframe representation of a map, imaginary or not. I wanted to divert this project and experiment in order to make it reactive to music with FMOD Library.
 
 Watch here : https://vimeo.com/408844297
 
